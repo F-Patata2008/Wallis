@@ -753,3 +753,62 @@ Para avanzar desde la lista de materiales hacia un prototipo funcional, el equip
 ### Comentario final
 
 La lista inicial permite dividir el proyecto en subsistemas más manejables: control, locomoción, filtrado, energía y estructura. Antes de integrar todo el prototipo, resulta más seguro y eficiente validar cada subsistema por separado; así será posible detectar fallas de diseño, consumo eléctrico o compatibilidad entre componentes antes de pasar a una prueba completa.
+
+## 28/08 — Construcción de la propuesta conceptual
+
+Durante esta actividad comenzamos a transformar el problema validado en una propuesta conceptual. Para ello, revisamos las necesidades identificadas en las etapas anteriores y definimos los requerimientos que debería cumplir una eventual solución.
+
+El objetivo de esta etapa es evitar que la solución se diseñe únicamente a partir de una idea inicial. Primero se deben identificar las condiciones que la propuesta debe cumplir y luego traducirlas en atributos concretos. De esta forma, los requerimientos funcionan como una guía para comparar alternativas y tomar decisiones de diseño.
+
+### 1. Requerimientos del problema
+
+A partir de la problemática relacionada con la presencia de residuos pequeños en la arena de las playas, definimos los siguientes requerimientos iniciales:
+
+- La solución debe ser capaz de recolectar residuos pequeños, como colillas, plásticos, tapas y fragmentos de vidrio.
+- Debe poder trabajar sobre arena sin atascarse ni perder estabilidad.
+- Debe separar, en la medida de lo posible, los residuos recolectados de la arena.
+- Debe reducir el riesgo de contacto entre las personas y los residuos peligrosos.
+- No debe dañar significativamente la arena ni afectar negativamente al ecosistema costero.
+- Debe ser segura para los usuarios, operadores y voluntarios que participen en las labores de limpieza.
+- Debe complementar las jornadas de limpieza y los voluntariados existentes.
+- Debe contar con un diseño escalable y modificable para permitir futuras mejoras.
+- Sus componentes deben ser accesibles para construir un prototipo dentro del contexto académico.
+- El funcionamiento de la solución debe poder ser probado en un entorno controlado antes de utilizarse en una playa real.
+
+### 2. Brainstorming de atributos
+
+A partir de los requerimientos, realizamos una lluvia de ideas para identificar los atributos que podría tener la solución:
+
+- Capacidad de recolección.
+- Capacidad de filtrado o tamizado.
+- Estabilidad sobre arena.
+- Tracción.
+- Resistencia a la humedad y a la corrosión.
+- Seguridad para las personas.
+- Bajo impacto sobre la arena.
+- Autonomía o asistencia al operador.
+- Facilidad de mantenimiento.
+- Bajo consumo energético.
+- Modularidad.
+- Escalabilidad.
+- Bajo costo de fabricación.
+- Compatibilidad con actividades de limpieza existentes.
+- Facilidad de operación y transporte.
+
+### 3. Naturaleza de la solución
+
+La propuesta corresponde principalmente a un **sistema**, ya que combina componentes físicos, electrónicos y mecánicos para cumplir una función determinada. El sistema considera una estructura de desplazamiento, un mecanismo de recolección y filtrado, sensores, una unidad de control y una fuente de energía.
+
+Además, la propuesta podría complementarse con un componente de servicio. Este componente incluiría la planificación de recorridos, el mantenimiento del sistema, la supervisión de su funcionamiento y la coordinación con trabajadores municipales o grupos de voluntariado.
+
+Por lo tanto, la propuesta conceptual se entiende como un sistema físico de limpieza costera que puede operar de manera autónoma o semiautónoma y complementar los métodos de limpieza existentes.
+
+### 4. Propuesta conceptual
+
+> **Sistema móvil de limpieza costera capaz de desplazarse sobre la arena, recolectar residuos pequeños y separarlos parcialmente mediante un mecanismo de filtrado, operando de forma autónoma o asistida y complementando las labores de limpieza manual y voluntariado sin dañar significativamente el ecosistema ni afectar la actividad turística.**
+
+### 5. Síntesis de la actividad
+
+Esta actividad permitió conectar la problemática con características concretas que una solución debería cumplir. El equipo identificó que no basta con retirar basura de la superficie, sino que también es necesario considerar los residuos pequeños y enterrados, la estabilidad del desplazamiento sobre arena, la seguridad de las personas y el impacto ambiental.
+
+Los requerimientos y atributos definidos servirán como base para comparar alternativas de diseño, seleccionar los mecanismos más adecuados y orientar el desarrollo del prototipo en las siguientes etapas.
