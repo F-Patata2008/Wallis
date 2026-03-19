@@ -33,8 +33,7 @@ Nuestro proyecto es crear un robot autonomo, tipo tractor, que funcione de noche
 
 #### Desafios como equipo
 
-- Dominancia extrema
-- O muy baja o muy alta
+- Dominancia extrema (O muy baja o muy alta)
 - Resistencia al cambio
 - Muy perfeccionista
 
