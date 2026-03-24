@@ -5,17 +5,19 @@ Por Felipe Colli, Benjamin Bascuñan, Joaquín Pérez, Agustin Concha, Diego Alv
 ## Nuestro Proyecto
 ### Valores
 - Responsabilidad Medioambiental
-- Determicnacion
+- Determinación
 - Compañerismo
 - Autosuficiencia
 
-### Tematica
-Un playa limpia. Chile tiene casi 6500 kms de costa, y posse aproxiamdamnete 900 playas, de las cuales todas estan contaminadas con plasticos, basura y microplasticos
+### Temática
+Una playa limpia. Chile tiene casi 6500 kms de costa y posee aproximadamente 900 playas. Todas enfrentan un problema crítico de contaminación superficial y subsuperficial por culpa de la acción humana (colillas de cigarro, tapas, vidrios y envases). La limpieza manual actual es ineficiente y no logra extraer la basura que queda enterrada.
 
 ### Wallis
-Nuestro proyecto es crear un robot autonomo, tipo tractor, que funcione de noche, y atarves de la filtarcion de arena, sea capaz de remover plasticos y basura de las playas chilenas
+Nuestro proyecto es **Wallis**, un robot autónomo tipo tractor. En esta etapa, desarrollaremos un **Demostrador de Concepto (PoC) a escala**. 
+El objetivo de este prototipo es validar tecnológicamente el mecanismo: un sistema capaz de remover los primeros 15 cm de arena, pasarla por un sistema de cribado/tamizado mecánico para separar macroplásticos y residuos comunes, y devolver la arena limpia a la playa. Operará de noche para no interrumpir el turismo.
 
 ---
+
 
 ## Entradas de Blog
 
@@ -39,3 +41,9 @@ Nuestro proyecto es crear un robot autonomo, tipo tractor, que funcione de noche
 
 
 ### 24/03
+
+
+### 24/03
+
+#### Alcance social
+Nuestro proyecto permitirá mecanizar y optimizar la limpieza profunda de las playas sin perturbar el uso normal de estas, ya que se espera que el modelo final funcione de noche y temprano en la madrugada. Al remover la basura enterrada que la limpieza manual omite, Wallis mejorará el entorno para la fauna costera y devolverá el valor recreativo a los balnearios.
