@@ -15,7 +15,16 @@ Una playa limpia. Chile tiene casi 6500 kms de costa y posee aproximadamente 900
 ### Alcance social
 Nuestro proyecto permitirá mecanizar y optimizar la limpieza profunda de las playas sin perturbar el uso normal de estas, ya que se espera que el modelo final funcione de noche y temprano en la madrugada. Al remover la basura enterrada que la limpieza manual omite, Wallis mejorará el entorno para la fauna costera y devolverá el valor recreativo a los balnearios.
 
+### Expectativas y Desafios
+Esta problematica resuena con nuestro equipo ya que tras la tragica experiecnia de Benjamin, que cuando pequño se hizo un corte en la playa, debido a que dejaron una botella de vidiro tirada, quedando marcado por la contaminacion desde ese dia.
 
+#### Desafios esperados
+- Ninguno vive en la playa o cerca
+- Quemar parte de la electronica
+- No tener recursos suficientes
+- No tener tiempo suficiente
+- Diferencias en conociemiento
+- Que se muera el server de minecraft
 
 
 ### Wallis
