@@ -92,7 +92,7 @@ Este proyecto va dirijido a todas las comunidades costeras, pero principlamente 
 - Observar la cantidad de contaminacion y los tipos de contamiantes en la arena.
 - Horarios de uso y maximo y mensor trafico
 
-##### Cuando 
+##### Cuando
 Finde semana por definir, idelamnte justo despues de la hora de almuerzo
 
 ##### Medios de regiustro a usar
@@ -103,6 +103,91 @@ Finde semana por definir, idelamnte justo despues de la hora de almuerzo
 
 
 ##### PReguntas para entrevista
-Pendiente
+###### A usuarios/turistas
+- ¿Con qué frecuencia visitas esta playa?
+- ¿Has notado basura en la arena o enterrada bajo la superficie?
+- ¿Qué tipos de basura ves más seguido en la arena?
+- ¿Alguna vez tú o alguien que conoces se ha lastimado por basura en la playa?
+- ¿Te molesta la basura en la playa al momento de disfrutar el lugar?
+- ¿Has visto cómo se limpia esta playa actualmente? ¿Quién la limpia?
+- Si existiera un robot que limpiara la arena de noche, ¿qué te parecería?
+- ¿Qué te preocuparía de que una máquina funcione en la playa (ruido, seguridad, apariencia, etc.)?
 
+###### A trabajadores (pescadores, comerciantes, personal de aseo, salvavidas)
+- ¿Cuál es tu relación con esta playa? (trabajo, hace cuánto tiempo, etc.)
+- ¿Quién se encarga de la limpieza de la arena normalmente?
+- ¿Con qué frecuencia se realiza la limpieza?
+- ¿Qué tipos de basura encuentras más frecuentemente en la arena?
+- ¿La basura enterrada es un problema para ustedes? ¿En qué situaciones?
+- ¿Qué dificultades tienen para mantener limpia la playa?
+- ¿Qué cambios te gustaría ver en la forma en que se limpia la playa?
+- ¿Cómo verías el uso de un robot que limpie la arena de forma más profunda?
+
+###### Cierre
+- ¿Hay algo más que te gustaría comentar sobre la limpieza o el estado de esta playa?
+
+
+##### Planificación de la observación
+
+###### ¿Qué voy a observar?
+- Tipo y cantidad de basura presente en la arena (colillas, vidrios, plásticos, latas, etc.).
+- Profundidad aproximada a la que se entierra la basura visible.
+- Cómo se realiza actualmente la limpieza de la playa (personas, máquinas, frecuencia).
+- Uso de la playa: actividades principales y zonas más concurridas.
+
+###### ¿Cómo lo voy a observar?
+- Observación no participante, con registro estructurado en una planilla de conteo de residuos.
+- Recorridos definidos a lo largo de la playa, anotando lo que se ve cada ciertos metros.
+- Entrevistas breves semi‑estructuradas a usuarios y trabajadores de la playa.
+
+###### ¿Cuándo lo voy a observar?
+- Un fin de semana por definir, idealmente después de la hora de almuerzo (aprox. 15:00–17:00).
+- Duración total estimada: 2–3 horas en terreno.
+
+###### ¿Con qué lo voy a observar?
+- Celulares para fotografías, videos y grabación de audio (entrevistas).
+- Hojas o planillas impresas para notas de campo y conteo de residuos.
+- Lápices y elementos básicos de escritura.
+
+###### ¿Dónde lo voy a observar?
+- Playa a definir dentro de las más cercanas a la Región Metropolitana
+  (por ejemplo: El Quisco, Algarrobo, Cartagena).
+- Tramo delimitado de la playa (por ejemplo, 200–300 metros lineales) para el catastro.
+
+###### ¿Quiénes estarán presentes?
+- Los 5 integrantes del equipo, con roles definidos:
+  - 1 encargado/a de notas de campo.
+  - 1 encargado/a de fotografías y videos.
+  - 1–2 encargados/as de realizar entrevistas.
+  - 1 encargado/a de registrar conteos en la planilla.
+
+###### ¿Qué circunstancias podrían influir?
+- Condiciones climáticas (lluvia, viento fuerte, frío) que disminuyan la afluencia de público.
+- Temporada baja o día de poca concurrencia.
+- Eventos especiales en la playa que alteren el tipo y la cantidad de basura.
+
+###### Objetivos de la observación
+- Caracterizar los tipos de residuos presentes en la arena y su distribución.
+- Entender cómo y con qué frecuencia se limpia actualmente la playa.
+- Identificar problemas y necesidades que un robot como Wallis podría abordar mejor.
+
+###### ¿Cómo se manejarán los datos?
+- Consolidar en una hoja de cálculo los conteos de residuos por tipo y por sector de la playa.
+- Clasificar fotografías y videos según zona y horario de captura.
+- Transcribir ideas clave de las entrevistas y agruparlas por temas (problemas, necesidades, percepciones).
+
+###### Duración de la observación
+- 2–3 horas continuas en terreno, en una primera visita piloto.
+- Posible segunda visita en otro horario para comparar (si el tiempo del curso lo permite).
+
+###### Criterios de éxito
+- Completar el recorrido planeado del tramo de playa definido.
+- Obtener al menos una cantidad mínima de registros de basura por tipo
+  (por ejemplo, más de 50 observaciones de residuos).
+- Realizar al menos 5 entrevistas breves a usuarios y/o trabajadores de la playa.
+
+###### Limitaciones previstas
+- Solo se observará una playa y en una fecha específica, por lo que no representa a todas las playas de Chile.
+- Falta de instrumentos para medir con precisión la profundidad de enterramiento de los residuos.
+- Posible negativa de personas a ser entrevistadas o a ser fotografiadas.
 
