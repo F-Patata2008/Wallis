@@ -9,8 +9,14 @@ Por Felipe Colli, Benjamin Bascuñan, Joaquín Pérez, Agustin Concha, Diego Alv
 - Compañerismo
 - Autosuficiencia
 
-### Temática
+### Contexto
 Una playa limpia. Chile tiene casi 6500 kms de costa y posee aproximadamente 900 playas. Todas enfrentan un problema crítico de contaminación superficial y subsuperficial por culpa de la acción humana (colillas de cigarro, tapas, vidrios y envases). La limpieza manual actual es ineficiente y no logra extraer la basura que queda enterrada.
+
+### Alcance social
+Nuestro proyecto permitirá mecanizar y optimizar la limpieza profunda de las playas sin perturbar el uso normal de estas, ya que se espera que el modelo final funcione de noche y temprano en la madrugada. Al remover la basura enterrada que la limpieza manual omite, Wallis mejorará el entorno para la fauna costera y devolverá el valor recreativo a los balnearios.
+
+
+
 
 ### Wallis
 Nuestro proyecto es **Wallis**, un robot autónomo tipo tractor. En esta etapa, desarrollaremos un **Demostrador de Concepto (PoC) a escala**. 
@@ -40,10 +46,5 @@ El objetivo de este prototipo es validar tecnológicamente el mecanismo: un sist
 - Muy perfeccionista
 
 
-### 24/03
 
 
-### 24/03
-
-#### Alcance social
-Nuestro proyecto permitirá mecanizar y optimizar la limpieza profunda de las playas sin perturbar el uso normal de estas, ya que se espera que el modelo final funcione de noche y temprano en la madrugada. Al remover la basura enterrada que la limpieza manual omite, Wallis mejorará el entorno para la fauna costera y devolverá el valor recreativo a los balnearios.
