@@ -19,7 +19,7 @@ Nuestro proyecto permitirá mecanizar y optimizar la limpieza profunda de las pl
 
 
 ### Wallis
-Nuestro proyecto es **Wallis**, un robot autónomo tipo tractor. En esta etapa, desarrollaremos un **Demostrador de Concepto (PoC) a escala**. 
+Nuestro proyecto es **Wallis**, un robot autónomo tipo tractor. En esta etapa, desarrollaremos un **Demostrador de Concepto (PoC) a escala**.
 El objetivo de este prototipo es validar tecnológicamente el mecanismo: un sistema capaz de remover los primeros 15 cm de arena, pasarla por un sistema de cribado/tamizado mecánico para separar macroplásticos y residuos comunes, y devolver la arena limpia a la playa. Operará de noche para no interrumpir el turismo.
 
 ---
@@ -44,7 +44,5 @@ El objetivo de este prototipo es validar tecnológicamente el mecanismo: un sist
 - Dominancia extrema (O muy baja o muy alta)
 - Resistencia al cambio
 - Muy perfeccionista
-
-
 
 
