@@ -196,9 +196,9 @@ Finde semana por definir, idelamnte justo despues de la hora de almuerzo
 ##### Mapa de empatía:
 
 ###### Arquetipo 1: Sebastían Carvajal, Usuario de borde costero, 38 años
--VE: Una playa sucia, contaminada por desechos como colillas, microplásticos y otros residuos. Observa a las personas disfrutar sin importarles la limpieza del lugar.
--OYE: Como el mundo está cada vez mas contaminado y no se realizan muchos esfuerzos para que deje de estarlo. Escucha alguna que otra persona mencionar el poco cuidado de la playa.
--PIENSA: Que la gente debería encargarse de sus residuos sin afectar el entorno. Que es desagradable pasear sobre la arena con basura, ademas de peligroso ir descalzo.
--LO QUE HACE: Cuando tiene la oportunidad, recoge basura del suelo para tirar en contenedores debidamente. Jamas tiraria residuos donde no pertenecen.
--RESULTADO: El ciudadano valora la limpieza, pero detesta la intervención humana/mecánica ruidosa mientras disfruta de la playa.
+- VE: Una playa sucia, contaminada por desechos como colillas, microplásticos y otros residuos. Observa a las personas disfrutar sin importarles la limpieza del lugar.
+- OYE: Como el mundo está cada vez mas contaminado y no se realizan muchos esfuerzos para que deje de estarlo. Escucha alguna que otra persona mencionar el poco cuidado de la playa.
+- PIENSA: Que la gente debería encargarse de sus residuos sin afectar el entorno. Que es desagradable pasear sobre la arena con basura, ademas de peligroso ir descalzo.
+- LO QUE HACE: Cuando tiene la oportunidad, recoge basura del suelo para tirar en contenedores debidamente. Jamas tiraria residuos donde no pertenecen.
+- RESULTADO: El ciudadano valora la limpieza, pero detesta la intervención humana/mecánica ruidosa mientras disfruta de la playa.
 
