@@ -102,7 +102,7 @@ Finde semana por definir, idelamnte justo despues de la hora de almuerzo
 - Audios
 
 
-##### PReguntas para entrevista
+##### Preguntas para entrevista
 ###### A usuarios/turistas
 - ¿Con qué frecuencia visitas esta playa?
 - ¿Has notado basura en la arena o enterrada bajo la superficie?
