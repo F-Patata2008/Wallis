@@ -27,11 +27,7 @@ Esta problematica resuena con nuestro equipo ya que tras la tragica experiecnia 
 - Que se muera el server de minecraft
 
 #### Fuentes de información
-- DIRECTEMAR (s.f.). *Limpieza de playas*. [http://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas](http://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas)
-- Subsecretaría del Medio Ambiente (s.f.). *Residuos marinos y microplásticos — Estrategia Nacional para la Gestión de Residuos Marinos y Microplásticos*. [https://residuosmarinos.mma.gob.cl/residuos-marinos-y-microplasticos/](https://residuosmarinos.mma.gob.cl/residuos-marinos-y-microplasticos/)
-- DIRECTEMAR (2025). *Reporte nacional limpieza playas 2024*. [https://www.directemar.cl/directemar/site/docs/20260123/20260123122836/reporte_2024.pdf](https://www.directemar.cl/directemar/site/docs/20260123/20260123122836/reporte_2024.pdf)
-- Diario y Radio Universidad de Chile (2025). *Contaminación en playas: el llamado a evitar los desechables y optar por la reutilización*. [https://radio.uchile.cl/2025/02/05/contaminacion-en-playas-el-llamado-a-evitar-los-desechables-y-optar-por-la-reutilizacion/](https://radio.uchile.cl/2025/02/05/contaminacion-en-playas-el-llamado-a-evitar-los-desechables-y-optar-por-la-reutilizacion/)
-- Científicos de la Basura / UCN (2026). *Playas bajo la lupa: Científicos de la Basura revelan resultados del extenso monitoreo participativo de Chile y Latinoamérica*. [https://cientificosdelabasura.ucn.cl/playas-bajo-la-lupa-cientificos-de-la-basura-revelan-resultados-del-extenso-monitoreo-participativo-de-chile-y-latinoamerica/](https://cientificosdelabasura.ucn.cl/playas-bajo-la-lupa-cientificos-de-la-basura-revelan-resultados-del-extenso-monitoreo-participativo-de-chile-y-latinoamerica/)
+Esta adjuntado en el pdf
 
 ---
 
@@ -82,11 +78,7 @@ Esta problematica resuena con nuestro equipo ya que tras la tragica experiecnia 
 - Que se muera el server de minecraft
 
 #### Fuentes de información
-- DIRECTEMAR (s.f.). *Limpieza de playas*. [http://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas](http://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas)
-- Subsecretaría del Medio Ambiente (s.f.). *Residuos marinos y microplásticos — Estrategia Nacional para la Gestión de Residuos Marinos y Microplásticos*. [https://residuosmarinos.mma.gob.cl/residuos-marinos-y-microplasticos/](https://residuosmarinos.mma.gob.cl/residuos-marinos-y-microplasticos/)
-- DIRECTEMAR (2025). *Reporte nacional limpieza playas 2024*. [https://www.directemar.cl/directemar/site/docs/20260123/20260123122836/reporte_2024.pdf](https://www.directemar.cl/directemar/site/docs/20260123/20260123122836/reporte_2024.pdf)
-- Diario y Radio Universidad de Chile (2025). *Contaminación en playas: el llamado a evitar los desechables y optar por la reutilización*. [https://radio.uchile.cl/2025/02/05/contaminacion-en-playas-el-llamado-a-evitar-los-desechables-y-optar-por-la-reutilizacion/](https://radio.uchile.cl/2025/02/05/contaminacion-en-playas-el-llamado-a-evitar-los-desechables-y-optar-por-la-reutilizacion/)
-- Científicos de la Basura / UCN (2026). *Playas bajo la lupa: Científicos de la Basura revelan resultados del extenso monitoreo participativo de Chile y Latinoamérica*. [https://cientificosdelabasura.ucn.cl/playas-bajo-la-lupa-cientificos-de-la-basura-revelan-resultados-del-extenso-monitoreo-participativo-de-chile-y-latinoamerica/](https://cientificosdelabasura.ucn.cl/playas-bajo-la-lupa-cientificos-de-la-basura-revelan-resultados-del-extenso-monitoreo-participativo-de-chile-y-latinoamerica/)
+Esta adjuntado en el pdf
 
 #### Planificaion de la obervacion
 ##### Lugar:
