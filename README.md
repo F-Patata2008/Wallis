@@ -208,6 +208,12 @@ Finde semana por definir, idelamnte justo despues de la hora de almuerzo
 - Iniciar el trabajo en el reporte del Hito 1.
 ---
 
-###
+### 23/04
+- **¿Qué hicimos?**
+Escuchamos a Max, quien nos explicó lo que se hacia en el fablab, agendación de impresora 3d mediante discord, materiales que se pueden ocupar, y distintas apps dentro de las cuales es posible realizar modelaje 3d y luego su impresión.
+- **¿Qué aprendimos?**
+Aprendimos a poder agendar una hora dentro del fablab para poder imprimir, vimos las temperaturas de ciertos materiales especificos que se usan en la impresora 3d la cual funciona similar a una pistola de silicona y dicha temperatura se puede establecer en el programa visto en el taller.
+- **¿Cómo puede ayudar esta experiencia a nuestro proyecto?**
+Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir tanto como para funcionalidad y apariencia de nuestro proyecto.
 
 ---
