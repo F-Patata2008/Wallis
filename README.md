@@ -216,4 +216,18 @@ Aprendimos a poder agendar una hora dentro del fablab para poder imprimir, vimos
 - **¿Cómo puede ayudar esta experiencia a nuestro proyecto?**
 Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir tanto como para funcionalidad y apariencia de nuestro proyecto.
 
+
+
+
+### **28/04**
+
+* **¿Qué hicimos?**
+    Asistimos a la charla de **Open Beauchef**, donde se presentaron las diversas formas de acceder a financiamiento y mentorías. Estas herramientas están diseñadas para potenciar y mejorar proyectos originados dentro de la facultad y la universidad, Ademas de definir las preguntas para la tarea 4.
+
+* **¿Qué aprendimos?**
+    Comprendimos el funcionamiento general de Open Beauchef, el tipo de apoyo que brindan y los procesos de postulación. Además, exploramos el acceso a **datos satelitales**, un recurso que podría ser clave para el desarrollo de nuestro proyecto.
+
+* **¿Cuáles son nuestros siguientes pasos?**
+    Finalizar la **Tarea 4**.
+
 ---
