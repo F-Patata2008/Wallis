@@ -230,4 +230,16 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
 * **¿Cuáles son nuestros siguientes pasos?**
     Finalizar la **Tarea 4**.
 
+
+
+### **05/05**
+
+* Recopilando información para la actividad 8
+    - Tractores limpia playas
+    - Voluntariados
+    - Robots limpia playas
+    - Leyes sobre limpieza de playas
+    - Impac5o de actividades de concientizacin
+
+* 
 ---
