@@ -239,7 +239,7 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
     - Voluntariados
     - Robots limpia playas
     - Leyes sobre limpieza de playas
-    - Impac5o de actividades de concientizacin
+    - Impacto de actividades de concientizacion
 
 * 
 ---
