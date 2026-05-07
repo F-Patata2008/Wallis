@@ -241,5 +241,25 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
     - Leyes sobre limpieza de playas
     - Impacto de actividades de concientizacion
 
-* 
+*
+
+### **07/05**
+reliazacion de tareas 8.1 y 8.2
+
+#### Tarea 8.1
+Patata
+
+#### Tarea 8.2
+Patata
+
+#### Organizacion del Hito 2
+    - Patata
+    - Patata
+    - Patata
+
+#### Organizacion de la Tarea 4
+    - Cada perosona del equipo hace 1 entrevista, fecha de validacion y el mapa de empatia correspondiente
+    - Joaquín Perez se encraga de redactar el texto de la tarea 4 en un latex
+    - Felipe Colli se encarga de estructurar correctamente el latex de la tarea 4
+
 ---
