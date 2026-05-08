@@ -230,6 +230,7 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
 * **¿Cuáles son nuestros siguientes pasos?**
     Finalizar la **Tarea 4**.
 
+---
 
 
 ### **05/05**
@@ -241,7 +242,6 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
   - Leyes sobre limpieza de playas
   - Impacto de actividades de concientización
 
----
 
 ### **07/05**
 
