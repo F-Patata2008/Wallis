@@ -244,16 +244,35 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
 *
 
 ### **07/05**
-Relizacion de tareas 8.1 y 8.2
 
-#### Tarea 8.1
-Patata
+#### Actividad 8.1
+### 07/05 — Actividad 8.1: Reencuadre del problema y pregunta movilizadora
 
-#### Tarea 8.2
-Patata
+**Reencuadre (problema + objetivo):**
+En el contexto de playas chilenas (especialmente en temporada alta), residentes, turistas y equipos de aseo municipal tienen dificultades para mantener la playa libre de basura **enterrada** (macroplásticos, colillas, vidrios), porque la limpieza predominante es **manual y superficial** y no alcanza la contaminación subsuperficial que se acumula con el uso y el tiempo. Esto provoca riesgos de accidentes (cortes/pinchazos), degradación ambiental y una peor experiencia de uso del borde costero.
+El objetivo es que las personas usuarias y actores del borde costero puedan contar con playas **más seguras y limpias**, reduciendo residuos subsuperficiales de forma **efectiva, accesible y sostenible**, sin dañar el ecosistema ni precarizar el trabajo de limpieza.
+
+**Preguntas movilizadoras (sin solución específica):**
+1. ¿Cómo podríamos **reducir** la presencia de residuos enterrados para **disminuir** el riesgo de cortes y accidentes en **residentes y turistas** en **playas chilenas de alta concurrencia**?
+2. ¿Cómo podríamos **facilitar** la limpieza de residuos subsuperficiales para **mejorar** la seguridad y la percepción de cuidado del entorno en **trabajadores municipales y voluntarios** en **el borde costero chileno**?
+3. ¿Cómo podríamos **aumentar** la efectividad de la gestión de residuos en playa para **minimizar** la acumulación y reaparición de basura enterrada en **comunidades costeras** en **temporadas de alta afluencia turística**?
+
+#### Actividad 8.2
+
+| Problema | Nombre de la solución | Cómo es | Quién la está utilizando | Cómo soluciona el problema | Fuentes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Basura en las playas** | Tractores limpia playas | Tractores que arrastran módulos que levantan la basura y la separan de la arena. | Comunas Antofagasta, Río de Janeiro, Collahuasi | Eliminan la basura grande de la superficie | [Enlace](https://www.collahuasi.cl/moderna-maquina-limpiadora-de-playas-suma-el-retiro-de-43-toneladas-de-basura-en-iquique/) |
+| | Voluntariados | Grupos impulsados por instituciones se juntan para limpiar las playas. | Múltiples comunas a lo largo de Chile | Recolectan la basura que encuentran sobre la arena. | [Enlace](https://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas) |
+| | Robots limpia playas | Maquinaria autónoma diseñada para limpiar las arenas de las playas. | Gdansk, por ejemplo | Limpian de una forma específica la playa, ej: colillas o la arena. | [Enlace](https://www.whitemad.pl/es/bebot-un-robot-que-limpia-playas-aparece-en-gdansk/) |
+| | Prohibición de plásticos de 1 solo uso | A través de la ley de plásticos de 1 solo uso, se prohíbe la venta de envases plásticos y bolsas. | Todo Chile | Limitan la cantidad de plásticos en las playas, al no poder comercializarse más de estos productos. | [Enlace](https://chile.oceana.org/comunicados/oceana-y-cientificos-de-la-basura-publican-estudio-sobre-desechos-en-las-playas-de-chile-colillas-y-plasticos-de-un-solo-uso-lideran-el-ranking/) |
+| | Impacto de actividades de concientización | Actividades que buscan que las personas conscientemente dejen de tirar basura en la playa. | Ciertas comunas | Generan conciencia en la población sobre la basura en las playas y cómo les afecta. | |
+
+
 
 #### Organizacion del Hito 2
+
 Repartiremos el trabajo en 5 partes dado que somos 5 personas en el grupo:
+
     1. Presentación
     1. Matriz aplicada del problema y PESTEL
     1. Mapas de empatía
@@ -261,6 +280,7 @@ Repartiremos el trabajo en 5 partes dado que somos 5 personas en el grupo:
     1. Realizar el reporte
 
 #### Organizacion de la Tarea 4
+
     - Cada perosona del equipo hace 1 entrevista, fecha de validacion y el mapa de empatia correspondiente
     - Joaquín Perez se encraga de redactar el texto de la tarea 4 en un latex
     - Felipe Colli se encarga de estructurar correctamente el latex de la tarea 4
