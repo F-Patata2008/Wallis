@@ -234,19 +234,18 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
 
 ### **05/05**
 
-* Recopilando información para la actividad 8
-    - Tractores limpia playas
-    - Voluntariados
-    - Robots limpia playas
-    - Leyes sobre limpieza de playas
-    - Impacto de actividades de concientizacion
+- Recopilando información para la Actividad 8:
+  - Tractores limpia playas
+  - Voluntariados
+  - Robots limpia playas
+  - Leyes sobre limpieza de playas
+  - Impacto de actividades de concientización
 
-*
+---
 
 ### **07/05**
 
 #### Actividad 8.1
-### 07/05 — Actividad 8.1: Reencuadre del problema y pregunta movilizadora
 
 **Reencuadre (problema + objetivo):**
 En el contexto de playas chilenas (especialmente en temporada alta), residentes, turistas y equipos de aseo municipal tienen dificultades para mantener la playa libre de basura **enterrada** (macroplásticos, colillas, vidrios), porque la limpieza predominante es **manual y superficial** y no alcanza la contaminación subsuperficial que se acumula con el uso y el tiempo. Esto provoca riesgos de accidentes (cortes/pinchazos), degradación ambiental y una peor experiencia de uso del borde costero.
@@ -261,28 +260,26 @@ El objetivo es que las personas usuarias y actores del borde costero puedan cont
 
 | Problema | Nombre de la solución | Cómo es | Quién la está utilizando | Cómo soluciona el problema | Fuentes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Basura en las playas** | Tractores limpia playas | Tractores que arrastran módulos que levantan la basura y la separan de la arena. | Comunas Antofagasta, Río de Janeiro, Collahuasi | Eliminan la basura grande de la superficie | [Enlace](https://www.collahuasi.cl/moderna-maquina-limpiadora-de-playas-suma-el-retiro-de-43-toneladas-de-basura-en-iquique/) |
-| | Voluntariados | Grupos impulsados por instituciones se juntan para limpiar las playas. | Múltiples comunas a lo largo de Chile | Recolectan la basura que encuentran sobre la arena. | [Enlace](https://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas) |
-| | Robots limpia playas | Maquinaria autónoma diseñada para limpiar las arenas de las playas. | Gdansk, por ejemplo | Limpian de una forma específica la playa, ej: colillas o la arena. | [Enlace](https://www.whitemad.pl/es/bebot-un-robot-que-limpia-playas-aparece-en-gdansk/) |
-| | Prohibición de plásticos de 1 solo uso | A través de la ley de plásticos de 1 solo uso, se prohíbe la venta de envases plásticos y bolsas. | Todo Chile | Limitan la cantidad de plásticos en las playas, al no poder comercializarse más de estos productos. | [Enlace](https://chile.oceana.org/comunicados/oceana-y-cientificos-de-la-basura-publican-estudio-sobre-desechos-en-las-playas-de-chile-colillas-y-plasticos-de-un-solo-uso-lideran-el-ranking/) |
-| | Impacto de actividades de concientización | Actividades que buscan que las personas conscientemente dejen de tirar basura en la playa. | Ciertas comunas | Generan conciencia en la población sobre la basura en las playas y cómo les afecta. | |
+| **Basura en las playas** | Tractores limpia playas | Tractores que arrastran módulos que levantan la basura y la separan de la arena. | Antofagasta, Río de Janeiro, Collahuasi (entre otros) | Eliminan basura grande de la superficie. | [Enlace](https://www.collahuasi.cl/moderna-maquina-limpiadora-de-playas-suma-el-retiro-de-43-toneladas-de-basura-en-iquique/) |
+|  | Voluntariados | Grupos impulsados por instituciones que se organizan para limpiar playas. | Múltiples comunas a lo largo de Chile | Recolectan basura visible sobre la arena. | [Enlace](https://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas) |
+|  | Robots limpia playas | Maquinaria autónoma diseñada para limpiar arenas de playas. | Gdansk (por ejemplo) | Limpian de forma específica (p. ej., colillas o filtrado de arena). | [Enlace](https://www.whitemad.pl/es/bebot-un-robot-que-limpia-playas-aparece-en-gdansk/) |
+|  | Prohibición de plásticos de un solo uso | Ley que prohíbe la venta de ciertos envases plásticos y bolsas. | Todo Chile | Reduce el ingreso de plásticos a las playas al limitar su uso y comercialización. | [Enlace](https://chile.oceana.org/comunicados/oceana-y-cientificos-de-la-basura-publican-estudio-sobre-desechos-en-las-playas-de-chile-colillas-y-plasticos-de-un-solo-uso-lideran-el-ranking/) |
+|  | Impacto de actividades de concientización | Iniciativas y campañas que buscan reducir conductas como botar basura y promover limpieza comunitaria. | Estudiantes/organizaciones locales (p. ej., iniciativas universitarias) | Cambian hábitos y movilizan acción colectiva, reduciendo residuos en el borde costero. | [Enlace](https://www.uc.cl/noticias/la-iniciativa-estudiantil-que-ha-logrado-retirar-5-toneladas-de-basura-de-las-playas/?utm_source=perplexity) |
+---
 
+#### Organización del Hito 2
 
+Repartiremos el trabajo en 5 partes (somos 5 integrantes):
 
-#### Organizacion del Hito 2
+1. Presentación
+2. Matriz aplicada del problema + PESTEL
+3. Mapas de empatía
+4. Analizar y reunir información para la presentación y apoyar el reporte
+5. Redacción del reporte
 
-Repartiremos el trabajo en 5 partes dado que somos 5 personas en el grupo:
+#### Organización de la Tarea 4
 
-    1. Presentación
-    1. Matriz aplicada del problema y PESTEL
-    1. Mapas de empatía
-    1. Analizar y reunir la información para la presentacion y ayudar con el reporte
-    1. Realizar el reporte
-
-#### Organizacion de la Tarea 4
-
-    - Cada perosona del equipo hace 1 entrevista, fecha de validacion y el mapa de empatia correspondiente
-    - Joaquín Perez se encraga de redactar el texto de la tarea 4 en un latex
-    - Felipe Colli se encarga de estructurar correctamente el latex de la tarea 4
-
+- Cada persona del equipo realiza **1 entrevista**, la **fecha de validación** y el **mapa de empatía** correspondiente.
+- Joaquín Pérez se encarga de redactar el texto de la Tarea 4 en LaTeX.
+- Felipe Colli se encarga de estructurar correctamente el LaTeX de la Tarea 4.
 ---
