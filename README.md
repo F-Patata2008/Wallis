@@ -244,7 +244,7 @@ Nos sirve principalmente para poder elaborar las piezas 3d que nos puedan servir
 *
 
 ### **07/05**
-reliazacion de tareas 8.1 y 8.2
+Relizacion de tareas 8.1 y 8.2
 
 #### Tarea 8.1
 Patata
@@ -253,9 +253,12 @@ Patata
 Patata
 
 #### Organizacion del Hito 2
-    - Patata
-    - Patata
-    - Patata
+Repartiremos el trabajo en 5 partes dado que somos 5 personas en el grupo:
+    1. Presentación
+    1. Matriz aplicada del problema y PESTEL
+    1. Mapas de empatía
+    1. Analizar y reunir la información para la presentacion y ayudar con el reporte
+    1. Realizar el reporte
 
 #### Organizacion de la Tarea 4
     - Cada perosona del equipo hace 1 entrevista, fecha de validacion y el mapa de empatia correspondiente
