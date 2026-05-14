@@ -282,4 +282,109 @@ Repartiremos el trabajo en 5 partes (somos 5 integrantes):
 - Cada persona del equipo realiza **1 entrevista**, la **fecha de validación** y el **mapa de empatía** correspondiente.
 - Joaquín Pérez se encarga de redactar el texto de la Tarea 4 en LaTeX.
 - Felipe Colli se encarga de estructurar correctamente el LaTeX de la Tarea 4.
+
+---
+
+### 12/05
+
+#### Actividad 9.1
+
+##### 1. Requerimientos del problema
+
+- La solución debe remover basura de los primeros centímetros bajo la superficie de la arena (basura enterrada no visible).
+- Debe cubrir grandes extensiones de playa sin depender de un número alto de personas.
+- Debe operar de manera autónoma, sin requerir un operador humano constante.
+- Debe poder funcionar de noche para no interrumpir el turismo ni las actividades en la playa.
+- Debe ser viable técnica y económicamente para el contexto chileno.
+
+---
+
+##### 2. Brainstorming de atributos de la propuesta
+
+| Atributo | Descripción |
+|---|---|
+| Autónomo | Opera sin conductor humano durante su ciclo de limpieza |
+| Nocturno | Trabaja en horario de bajo tráfico para no molestar a los usuarios de la playa |
+| Mecánico | Usa un sistema físico de cribado/tamizado para separar residuos de la arena |
+| Subsuperficial | Remueve los primeros 15 cm de arena, alcanzando basura enterrada |
+| Escalable | Diseño tipo tractor que puede adaptarse a distintos tamaños de playa |
+| Devolutivo | Retorna la arena limpia al lugar de origen, sin alterar el ecosistema |
+
+---
+
+##### 3. Naturaleza de la propuesta conceptual
+
+**Tipo:** Producto (robot físico autónomo tipo tractor).
+
+En esta etapa se desarrollará un **Demostrador de Concepto (PoC) a escala**, cuyo objetivo es validar tecnológicamente el mecanismo de remoción, tamizado y devolución de arena.
+
+---
+
+##### 4. Frase o Propuesta Conceptual
+
+> **Wallis** *(sustantivo: robot autónomo tipo tractor, ligado a la acción de limpiar playas)*
+> **de macroplásticos y residuos enterrados** *(función principal)*
+> **+ autónomo** *(adjetivo 1)*,
+> **nocturno** *(adjetivo 2)*
+> **y subsuperficial** *(adjetivo 3)*.
+
+**Enunciado completo:**
+> *Wallis es un robot autónomo tipo tractor, limpiador de macroplásticos y residuos enterrados, autónomo, nocturno y subsuperficial.*
+
+
+
+#### Actividad 9-2: Análisis estado del arte
+
+**Problema:** Basura en las playas chilenas (superficial y enterrada): colillas, plásticos, vidrios, envases y otros residuos que la limpieza manual no logra eliminar completamente.
+
+| Nombre de la solución | ¿Cómo es? | ¿Quién la está usando? | ¿Cómo soluciona el problema? | Fuente |
+|---|---|---|---|---|
+| Tractores limpiaplayas | Tractores que arrastran módulos que levantan la capa superficial de arena, la tamizan y separan la basura grande de la arena limpia. | Antofagasta (Chile), Río de Janeiro (Brasil), Operación Collahuasi, entre otros. | Eliminan eficientemente la basura de mayor tamaño de la superficie, cubriendo grandes extensiones en poco tiempo. | [BeachTech](https://www.beach-tech.com/en/beach-cleaners) |
+| Voluntariados de limpieza de playas | Grupos organizados por instituciones, universidades o municipios que realizan jornadas de limpieza manual en la costa. | Múltiples comunas a lo largo de Chile, coordinadas por DIRECTEMAR y organizaciones como Científicos de la Basura. | Recolectan basura visible sobre la arena y generan conciencia comunitaria sobre el problema. | [DIRECTEMAR – Limpieza de playas](https://www.directemar.cl/directemar/intereses-maritimos/limpieza-de-playas/limpieza-de-playas) |
+| Robots limpiaplayas | Maquinaria autónoma o semiautónoma diseñada para desplazarse sobre la arena y recolectar o filtrar residuos de forma específica. | BeBot (operado por 4ocean en playas de España y EE.UU.), robot autónomo en Gdańsk (Polonia), Robot Zambrano (Chile). | Limpian de forma específica: algunos filtran arena en busca de residuos pequeños, otros recogen plásticos o colillas con autonomía. | [BeBot – Searial Cleaners](https://searial-cleaners.com/our-cleaners/bebot-the-beach-cleaner/) |
+| Prohibición de plásticos de un solo uso (Ley 21.368) | Ley chilena que prohíbe la venta y entrega gratuita de bolsas plásticas, bombillas, cubiertos y otros envases desechables en locales de comida y comercio. | Todo Chile, vigente desde 2023 en su etapa completa. | Reduce el ingreso de plásticos a las playas al limitar su uso y comercialización en la fuente. | [Oceana Chile – Ley 21.368](https://oceana.org/victories/chile-protects-oceans-single-use-plastics-mandates-refillable-bottle/) |
+| Campañas de concientización ambiental | Iniciativas y campañas educativas que buscan reducir conductas como botar basura y promover la limpieza comunitaria en el borde costero. | Estudiantes y organizaciones locales; por ejemplo, la iniciativa estudiantil de la UC que ha retirado más de 5 toneladas de basura de playas chilenas. | Cambian hábitos y movilizan acción colectiva, reduciendo residuos en la costa a largo plazo. | [UC Chile – Iniciativa estudiantil](https://www.uc.cl/noticias/la-iniciativa-estudiantil-que-ha-logrado-retirar-5-toneladas-de-basura-de-las-playas/) |
+
+
+#### Actividad 9.3
+
+##### Objetivo
+Analizar y comparar las soluciones existentes identificadas en el Estado del Arte, evaluándolas según atributos clave relevantes para el problema de contaminación en playas.
+
+##### Atributos seleccionados
+
+- **Elimina basura enterrada:** ¿La solución puede remover residuos bajo la superficie de la arena?
+- **Escalable / Cubre grandes superficies:** ¿Puede operar en extensiones amplias sin depender de mucho personal?
+- **Autónoma / No requiere operador constante:** ¿Funciona sin supervisión humana permanente?
+- **Aplicable en Chile (costo/accesibilidad):** ¿Es económica y prácticamente viable en el contexto chileno?
+
+---
+
+##### Matriz de Atributos vs Soluciones
+
+| Atributo | Tractores limpiaplayas | Voluntariados | Robots limpiaplayas | Prohibición plásticos de un solo uso | Campañas de concientización |
+|---|---|---|---|---|---|
+| **Elimina basura enterrada** | Sí, tamiza los primeros centímetros de arena. | No, solo recogen basura visible en superficie. | Algunos sí (p. ej., BeBot tamiza arena). | No, actúa en la fuente pero no limpia lo ya enterrado. | No, no interviene físicamente la arena. |
+| **Escalable / Cubre grandes superficies** | Sí, cubre cientos de metros en poco tiempo. | Limitado, depende del número de voluntarios. | Limitado por tamaño y velocidad del robot. | Sí, aplica a todo el país por ley. | Sí, puede llegar a toda la población. |
+| **Autónoma / No requiere operador constante** | No, requiere conductor y operación manual. | No, depende completamente de personas. | Parcialmente: algunos requieren operador. | Sí, una vez promulgada opera sola. | No, requiere organización y difusión continua. |
+| **Aplicable en Chile (costo/accesibilidad)** | Sí, ya se usa en algunas comunas. | Sí, de bajo costo pero baja escala. | Difícil: alto costo de importación. | Sí, ya vigente (Ley 21.368). | Sí, de bajo costo y alta penetración social. |
+
+---
+
+##### Análisis comparativo
+
+Ninguna solución existente resuelve el problema de forma completa:
+
+- Los **tractores limpiaplayas** son los más efectivos mecánicamente, pero requieren operación humana constante.
+- Los **voluntariados** generan impacto social, pero su cobertura es pequeña y no remueven basura subsuperficial.
+- Los **robots limpiaplayas** son prometedores, pero o requieren operador humano, o tienen costo inaccesible para municipios chilenos.
+- La **prohibición de plásticos** actúa en la fuente, pero no soluciona la basura ya presente en las playas.
+- Las **campañas de concientización** cambian hábitos a largo plazo, pero no son una solución inmediata al problema físico.
+
+##### Oportunidad para Wallis
+
+Las limitaciones anteriores demuestran que **ninguna solución combina autonomía, tamizado de arena y operación en horarios de bajo tráfico** sin intervención humana constante. Esa combinación es precisamente lo que Wallis busca integrar como propuesta conceptual.
+
+
+
 ---
