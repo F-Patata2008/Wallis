@@ -385,6 +385,14 @@ Ninguna solución existente resuelve el problema de forma completa:
 
 Las limitaciones anteriores demuestran que **ninguna solución combina autonomía, tamizado de arena y operación en horarios de bajo tráfico** sin intervención humana constante. Esa combinación es precisamente lo que Wallis busca integrar como propuesta conceptual.
 
+---
+
+### 14/05
+
+#### ¿Como fue nuestro trabajo con el circuito?
+Nuestro trabajo com circuito fue muy didactico y nos parecio una actividad grata para empezar a adentrarnos al “mundo” de los circuitos electricos. 
+#### ¿Que aprendimos?
+Con esta actividad pudimos aprender como realizar circuitos elecricos con protoboards y acerca de los circuitos integrados.
 
 
 ---
