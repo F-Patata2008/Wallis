@@ -394,5 +394,26 @@ Nuestro trabajo com circuito fue muy didactico y nos parecio una actividad grata
 #### ¿Que aprendimos?
 Con esta actividad pudimos aprender como realizar circuitos elecricos con protoboards y acerca de los circuitos integrados.
 
+---
+
+### 21/05
+
+Esta semana nos dedicamos a finalizar la Tarea 4 y la presentación para el Hito 2.
+Comenzamos también la redacción del reporte del Hito 2.
+
+Para la presentación, definimos la siguiente distribución de secciones:
+
+| Sección | Responsable |
+|---|---|
+| Portada y saludo | Agus |
+| Delimitación del problema | Colli |
+| Metodología utilizada para delimitar | Agus |
+| Hallazgos clave | Diego B. |
+| Objetivo (puente a los requerimientos) | Joako |
+| Requerimientos (parte 1 y 2) | Benja |
+| Próximos pasos | Colli |
+| Despedida | Agus |
+
+
 
 ---
