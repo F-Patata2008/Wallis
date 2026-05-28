@@ -434,9 +434,9 @@ Lab de hoy
 #estamosalbordedelalocura
 
 
-### Actividad 10-2: Selección de Propuestas Conceptuales
+#### Actividad 10-2: Selección de Propuestas Conceptuales
 
-#### 1. Contraste de Propuestas con Vacíos del Estado del Arte
+##### 1. Contraste de Propuestas con Vacíos del Estado del Arte
 Basado en el análisis previo, se identificó que las soluciones actuales (tractores, voluntariados y robots importados) no logran combinar **autonomía, limpieza subsuperficial y operación nocturna** de manera accesible para Chile.
 
 | Propuesta conceptual | ¿Qué atributo(s) nuevos resuelve? | ¿Qué le falta aún? | ¿Se relaciona con alguna solución del Estado del Arte? ¿Cómo? |
@@ -447,7 +447,7 @@ Basado en el análisis previo, se identificó que las soluciones actuales (tract
 
 ---
 
-#### 2. Análisis de Contraste (Preguntas Movilizadoras)
+##### 2. Análisis de Contraste (Preguntas Movilizadoras)
 
 *   **¿Esta idea resuelve algún atributo que las soluciones del Estado del Arte no cubren?**
     Sí. Wallis resuelve la **limpieza subsuperficial (15 cm de profundidad)** de forma totalmente **autónoma y nocturna**. Los tractores actuales requieren conductores y los voluntarios solo recogen basura superficial visible.
@@ -458,7 +458,7 @@ Basado en el análisis previo, se identificó que las soluciones actuales (tract
 
 ---
 
-#### 3. Evaluación Multicriterio de Propuestas (Escala 1 a 5)
+##### 3. Evaluación Multicriterio de Propuestas (Escala 1 a 5)
 Siguiendo los criterios de materialización, novedad, motivación e impacto definidos en el laboratorio.
 
 | Criterio de Evaluación | Propuesta 1: Wallis (Principal) | Propuesta 2: Wallis Mini (PoC) | Propuesta 3: Wallis Solar |
@@ -473,7 +473,7 @@ Siguiendo los criterios de materialización, novedad, motivación e impacto defi
 
 ---
 
-#### 4. Propuesta Conceptual Final
+##### 4. Propuesta Conceptual Final
 Siguiendo la estructura de **Sustantivo + Función + Adjetivos**:
 
 **Wallis** (sustantivo) **de macroplásticos y residuos enterrados** (función principal) + **autónomo** (adjetivo 1), **nocturno** (adjetivo 2) y **subsuperficial** (adjetivo 3).
