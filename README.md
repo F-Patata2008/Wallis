@@ -433,6 +433,55 @@ Esta semana finalizamos el reporte del hito 2, para asi proseguir con los proxim
 Lab de hoy
 #estamosalbordedelalocura
 
+
+### Actividad 10-2: Selección de Propuestas Conceptuales
+
+#### 1. Contraste de Propuestas con Vacíos del Estado del Arte
+Basado en el análisis previo, se identificó que las soluciones actuales (tractores, voluntariados y robots importados) no logran combinar **autonomía, limpieza subsuperficial y operación nocturna** de manera accesible para Chile.
+
+| Propuesta conceptual | ¿Qué atributo(s) nuevos resuelve? | ¿Qué le falta aún? | ¿Se relaciona con alguna solución del Estado del Arte? ¿Cómo? |
+| :--- | :--- | :--- | :--- |
+| **Idea 1: Wallis (Robot Autónomo Nocturno)** | Resuelve la **autonomía total** y la **limpieza subsuperficial** sin interrumpir el turismo. | Resolver la resistencia de la electrónica al ambiente salino. | Similar a los tractores en mecánica de cribado, pero elimina la dependencia del conductor. |
+| **Idea 2: Wallis Mini (PoC a escala)** | Permite **validación tecnológica** rápida en el FabLab a bajo costo. | Capacidad de cubrir grandes superficies (escalabilidad real). | Relacionado con robots tipo BeBot, pero enfocado en fabricación local y accesibilidad. |
+| **Idea 3: Wallis Solar (Autosuficiente)** | Añade **sustentabilidad energética** alineada con los valores de autosuficiencia del equipo. | Complejidad técnica en el balance de carga y peso del robot. | Evolución de las campañas de concientización hacia una solución física 100% verde. |
+
+---
+
+#### 2. Análisis de Contraste (Preguntas Movilizadoras)
+
+*   **¿Esta idea resuelve algún atributo que las soluciones del Estado del Arte no cubren?**
+    Sí. Wallis resuelve la **limpieza subsuperficial (15 cm de profundidad)** de forma totalmente **autónoma y nocturna**. Los tractores actuales requieren conductores y los voluntarios solo recogen basura superficial visible.
+*   **¿Dónde aporta algo nuevo o diferente?**
+    Aporta en la **fusión de funciones**: es un mecanismo **devolutivo** que retorna la arena limpia al ecosistema mientras opera en horarios de bajo tráfico (noche/madrugada), eliminando riesgos de accidentes por vidrios o colillas enterradas sin molestar a los usuarios.
+*   **¿Tiene alguna debilidad o atributo aún no resuelto?**
+    Las mayores debilidades son la **vulnerabilidad de la electrónica** ante la salinidad, la falta de recursos y la dificultad logística de pruebas, dado que ningún integrante vive cerca de la costa.
+
+---
+
+#### 3. Evaluación Multicriterio de Propuestas (Escala 1 a 5)
+Siguiendo los criterios de materialización, novedad, motivación e impacto definidos en el laboratorio.
+
+| Criterio de Evaluación | Propuesta 1: Wallis (Principal) | Propuesta 2: Wallis Mini (PoC) | Propuesta 3: Wallis Solar |
+| :--- | :---: | :---: | :---: |
+| **Viabilidad Técnica** | 4 | 5 | 3 |
+| **Grado de Novedad** | 5 | 4 | 5 |
+| **Interés del Equipo** | 5 | 5 | 4 |
+| **Impacto en el Desafío** | 5 | 3 | 5 |
+| **Puntaje Total** | **19** | **17** | **17** |
+
+*   **Justificación:** Se selecciona la **Propuesta 1 (Wallis)**. Aunque la Propuesta 2 es más viable por el acceso actual al **FabLab** y modelado 3D, la propuesta original garantiza el máximo impacto al abordar directamente la basura enterrada y la autonomía nocturna, resolviendo los vacíos críticos del mercado local.
+
+---
+
+#### 4. Propuesta Conceptual Final
+Siguiendo la estructura de **Sustantivo + Función + Adjetivos**:
+
+**Wallis** (sustantivo) **de macroplásticos y residuos enterrados** (función principal) + **autónomo** (adjetivo 1), **nocturno** (adjetivo 2) y **subsuperficial** (adjetivo 3).
+
+**Enunciado final:** *"Wallis es un robot autónomo tipo tractor, limpiador de macroplásticos y residuos enterrados, autónomo, nocturno y subsuperficial"*.
+
+
+
 ---
 
 ---
