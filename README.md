@@ -390,7 +390,7 @@ Las limitaciones anteriores demuestran que **ninguna solución combina autonomí
 ### 14/05
 
 #### ¿Como fue nuestro trabajo con el circuito?
-Nuestro trabajo com circuito fue muy didactico y nos parecio una actividad grata para empezar a adentrarnos al “mundo” de los circuitos electricos. 
+Nuestro trabajo com circuito fue muy didactico y nos parecio una actividad grata para empezar a adentrarnos al “mundo” de los circuitos electricos.
 #### ¿Que aprendimos?
 Con esta actividad pudimos aprender como realizar circuitos elecricos con protoboards y acerca de los circuitos integrados.
 
@@ -414,6 +414,25 @@ Para la presentación, definimos la siguiente distribución de secciones:
 | Próximos pasos | Colli |
 | Despedida | Agus |
 
+---
 
+### 26/05
+
+Esta semana finalizamos el reporte del hito 2, para asi proseguir con los proximos pasos.
+
+#### Conslusiones Post presentacion
+
+    - Falto cpacidad de Diccion frente al publico
+    - Presnetacion muy estructurada como informe (mucho texto Bart)
+    - No incluimos un balnce etioc de nuetsro poyecto, sobre como nustar solucion no remplaza voluntarios/trabajdores dedicados a la limpiaza d el playa, sino que los complementa
+    - Falta de coordincion al momento de prenstar, transiciones en espcifico entre secciones
+    - Falat de practica de los contenidos de la presentacion
+
+### 28/05
+
+Lab de hoy
+#estamosalbordedelalocura
+
+---
 
 ---
