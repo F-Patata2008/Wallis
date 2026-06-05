@@ -496,4 +496,69 @@ Además de estas actividades, durante esta semana seguimos cerrando pendientes d
 
 ---
 
+### 02/06
+
+Se realizó un primer boceto conceptual de Wall-Is y se finalizó el reporte del Hito 2.
+
+![Boceto 1 de robot Wall-Is](Media/Boceto_1.jpeg)
+
+### 04/06/2026
+
+#### Lluvia de ideas
+
+En el laboratorio de hoy realizamos una lluvia de ideas con el objetivo de generar la mayor cantidad posible de propuestas, sin centrarnos inicialmente en su factibilidad. El ejercicio nos permitió explorar soluciones muy variadas, desde ideas completamente serias hasta otras claramente exageradas o irónicas. Finalmente, logramos reunir 34 ideas, de las cuales varias fueron posteriormente seleccionadas para su análisis por factibilidad, costo y grado de originalidad.
+
+Entre las ideas más llamativas surgieron propuestas como traer a Max Verstappen para limpiar playas por su velocidad, pedirle a Taylor Swift y Sabrina Carpenter que llamen a sus fans a no contaminar, o incluso plantear soluciones absurdas como ejecutar a las personas sorprendidas contaminando o eliminar directamente las playas. Aunque varias de estas ideas no eran viables, sirvieron para ampliar el espacio creativo y abrir nuevas conversaciones sobre el problema.
+
+##### Lista de ideas generadas en la lluvia de ideas
+
+A continuación, se presentan las 34 ideas propuestas durante la actividad. Las ideas que luego fueron analizadas aparecen en **negrita**.
+
+1. **Robot que limpia playas**.
+2. **Concientizar**.
+3. **Comprar un tractor para limpiar las playas**.
+4. **Voluntarios**.
+5. Ilegalizar los plásticos a nivel nacional.
+6. Eliminar las playas.
+7. Prohibir ir a la playa.
+8. **Poner tachos de basura**.
+9. **Hacer propaganda antibasura en playas**.
+10. **Persona que contamina, persona lobotomizada**.
+11. **Endurecer penas por contaminación en playas**.
+12. **Te ejecutan por contaminar**.
+13. **Hacer campañas en colegios**.
+14. Reducion de penas a reos por limpiar las playas.
+15. Bolsas de basura en las entradas a las playas.
+16. **Solo venta de cigarros y cigarrillos 100% biodegradables a nivel nacional**.
+17. **Solo venta de plásticos 100% biodegradables a nivel nacional**.
+18. Un día al mes en que las comunidades limpien sus playas.
+19. Mallas debajo de la arena para atrapar basura.
+20. Mayor fiscalización.
+21. Poner cámaras.
+22. Que Max Verstappen ayude a limpiar las playas y hacer una campaña mediática alrededor de eso.
+23. **Agregar puntos de reciclaje**.
+24. Drones de monitoreo.
+25. Disparar desde helicópteros patrullando a gente sorprendida contaminando.
+26. **Mallas para ríos**.
+27. **Recolectores automáticos**.
+28. Anuncios anticontaminación en playas puestos en tiendas.
+29. **Arte de basura**.
+30. Puestos en las playas que se encarguen de la basura en su alrededor.
+31. Hacer tablas de surf en base a la basura recolectada.
+32. Playas 100% cerradas para que sean limpiadas y se restaure el equilibrio natural.
+33. **Hacer contenedores de basura con la misma basura recolectada en playas**.
+34. Que Taylor Swift y Sabrina Carpenter hagan un llamado a sus fans para limpiar playas y no contaminarlas más.
+
+![Gráfico comparativo de factibilidad vs costo, considerando grado de originalidad](Media/Comparacion.png)
+
+El día de hoy también se evaluó la posibilidad de mover el blog a un archivo Markdown separado llamado `Blog.md`. Se estimó un plazo de 3 días hábiles para realizar la migración correctamente, con una posible fecha de inicio el 8 de junio del presente año.
+
+#### Conclusiones
+
+La lluvia de ideas cumplió su objetivo principal: abrir el espacio creativo sin filtros iniciales y permitir que surgieran propuestas muy distintas entre sí. Aunque varias ideas fueron humorísticas, irreales o directamente inviables, también aparecieron alternativas interesantes que sí pueden seguir desarrollándose, especialmente aquellas relacionadas con automatización, concientización, gestión de residuos e infraestructura de apoyo.
+
+A partir de la discusión posterior, fue posible identificar un subconjunto de ideas más factibles y con mayor potencial de implementación. Estas ideas quedaron mejor posicionadas para ser evaluadas con criterios más concretos como originalidad, costo y factibilidad técnica. En ese sentido, la actividad sirvió no solo para generar opciones, sino también para ordenar el proceso de selección de la propuesta final.
+
+
+
 ---
