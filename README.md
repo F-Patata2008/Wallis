@@ -38,4 +38,4 @@ El objetivo del prototipo es comprobar un sistema capaz de remover los primeros 
 ---
 
 ## Blog
-Ha sido movido al Archivo Blog.md
+Ha sido movido al Archivo [`Blog.md`](Blog.md).
