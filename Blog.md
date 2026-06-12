@@ -419,6 +419,8 @@ Además de estas actividades, seguimos cerrando pendientes del Reporte de Hito 2
 
 Se realizó un primer boceto conceptual de Wall-I's y se finalizó el reporte del Hito 2.
 
+![Primer boceto de Wallis](Media/Boceto_1.jpeg)
+
 
 
 ***
@@ -469,12 +471,53 @@ Las ideas que luego fueron analizadas aparecen en **negrita**.
 34. Que Taylor Swift y Sabrina Carpenter hagan un llamado a sus fans para limpiar playas y no contaminarlas más.
 
 
+![Grafico de Costsos vs Factibilidad](Media/Comparacion.png)
 
-El día de hoy también se evaluó la posibilidad de mover el blog a un archivo Markdown separado llamado `blog.md`. Se estimó un plazo de 3 días hábiles para realizar la migración correctamente, con una posible fecha de inicio el 8 de junio del presente año.
+
+
+El día de hoy también se evaluó la posibilidad de mover el blog a un archivo Markdown separado llamado `Blog.md`. Se estimó un plazo de 3 días hábiles para realizar la migración correctamente, con una posible fecha de inicio el 8 de junio del presente año.
 
 #### Conclusiones
 La lluvia de ideas cumplió su objetivo principal: abrir el espacio creativo sin filtros iniciales y permitir que surgieran propuestas muy distintas entre sí. Aunque varias ideas fueron humorísticas, irreales o directamente inviables, también aparecieron alternativas interesantes que sí pueden seguir desarrollándose, especialmente aquellas relacionadas con automatización, concientización, gestión de residuos e infraestructura de apoyo.
 
 A partir de la discusión posterior, fue posible identificar un subconjunto de ideas más factibles y con mayor potencial de implementación. Estas ideas quedaron mejor posicionadas para ser evaluadas con criterios más concretos como originalidad, costo y factibilidad técnica. En ese sentido, la actividad sirvió no solo para generar opciones, sino también para ordenar el proceso de selección de la propuesta final.
+
+***
+
+## 09/06
+
+### Conclusiones del pitch
+
+El primer pitch resultó atractivo como punto de partida, pero dejó claro que todavía debemos afinar el mensaje principal. La apertura centrada en “enterrarse un plástico roto al caminar descalzo sobre la arena” funciona como ejemplo, aunque no parece lo suficientemente potente como para representar por sí sola la magnitud del problema.
+
+En cambio, la idea de un robot autónomo capaz de limpiar playas de manera eficiente sí logra captar atención inicial. Aun así, esa novedad puede ser cuestionada fácilmente por alguien que conozca referencias internacionales, por lo que debemos enfatizar mejor qué hace distinta a nuestra propuesta y por qué su aplicación en Chile sigue siendo una oportunidad real.
+
+También apareció otro desafío importante: fortalecer la dimensión de rentabilidad del proyecto. Si queremos que la propuesta tenga mayor proyección frente a un inversionista, necesitamos justificar mejor su viabilidad económica y mostrar con más claridad cuál es su valor diferencial frente a otros robots limpiaplayas ya existentes.
+
+**Próximo paso:** redefinir el foco del pitch, mejorar la propuesta de valor y destacar con mayor fuerza el contexto chileno como espacio de innovación.
+
+---
+
+## 10/06
+
+### Migración del blog
+
+Durante esta jornada se completó la migración del blog al archivo `Blog.md`. El cambio se realizó mediante la creación de una rama en Git, seguida de su respectivo *pull request*, el cual fue revisado por Felipe Colli e integrado posteriormente al proyecto.
+
+---
+
+## 11/06
+
+### Prototipo inicial de IA a bordo
+
+Durante el laboratorio se completó el primer prototipo de la IA integrada a bordo de Wallis. Este avance marca un primer paso concreto hacia la incorporación de inteligencia en el sistema, permitiendo comenzar a visualizar cómo podría operar la solución en un contexto más cercano al uso real.
+
+![Prototipo 1 de IA a bordo de Wallis](Media/Ia.png)
+
+---
+
+### Balance de la semana
+
+Esta semana permitió avanzar tanto en la comunicación del proyecto como en su desarrollo técnico. Por un lado, el pitch ayudó a detectar debilidades en la forma de presentar el problema y la propuesta de valor; por otro, la migración del blog y el prototipo inicial de IA muestran progreso concreto en la documentación y construcción del proyecto.
 
 ***
