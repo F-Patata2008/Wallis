@@ -521,3 +521,22 @@ Durante el laboratorio se completó el primer prototipo de la IA integrada a bor
 Esta semana permitió avanzar tanto en la comunicación del proyecto como en su desarrollo técnico. Por un lado, el pitch ayudó a detectar debilidades en la forma de presentar el problema y la propuesta de valor; por otro, la migración del blog y el prototipo inicial de IA muestran progreso concreto en la documentación y construcción del proyecto.
 
 ***
+
+
+## 18/06
+
+Durante esta semana se comenzó el diseño del pitch y se plantearon las primeras ideas para el póster, avanzando en la forma de presentar el proyecto de manera más clara y atractiva. Este paso fue importante para ordenar el mensaje central de Wallis y definir qué aspectos del problema y la solución debían destacarse con mayor fuerza.
+
+Además, Joaquín comenzó el diseño del primer modelo CAD de Wallis, con el objetivo de imprimirlo en 3D y utilizarlo como referencia física del robot. Aunque para el prototipo se usarán ruedas de mecano, ya que están disponibles dentro del equipo, este modelo permite visualizar mejor la estructura general y avanzar hacia una versión más concreta del sistema.
+
+**Avance del póster:** se inició la definición visual y conceptual de la presentación del proyecto.
+
+**Avance del prototipo:** se comenzó el modelado CAD de Wallis como base para su futura impresión 3D y validación formal.
+
+### Pitch
+
+Todos hemos ido a la playa, pero muchas veces, al llegar y comenzar a caminar, nos encontramos con basura enterrada en la arena, colillas de cigarro o residuos que afectan tanto la experiencia de las personas como el entorno natural. La contaminación en las playas se ha vuelto tan común que muchas veces termina normalizándose, a pesar de ser un problema visible y constante.
+
+Frente a esta situación, presentamos **Wallis**, un robot tipo tractor diseñado para limpiar playas de manera más eficiente. Su objetivo es recolectar basura, colillas de cigarro y otros residuos presentes en la arena, operando principalmente durante la noche y en coordinación con voluntarios, para contribuir a mantener playas más limpias en Chile.
+
+***
