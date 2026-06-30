@@ -540,3 +540,8 @@ Todos hemos ido a la playa, pero muchas veces, al llegar y comenzar a caminar, n
 Frente a esta situación, presentamos **Wallis**, un robot tipo tractor diseñado para limpiar playas de manera más eficiente. Su objetivo es recolectar basura, colillas de cigarro y otros residuos presentes en la arena, operando principalmente durante la noche y en coordinación con voluntarios, para contribuir a mantener playas más limpias en Chile.
 
 ***
+
+## semana del 22 del 06
+
+"Para cerrar, este curso fue mucho más que aprender a idear un robot limpiador de playas; significó un tremendo aprendizaje en el trabajo interdisciplinario y en la gestión de equipo. Al comenzar el semestre, identificamos que el perfeccionismo o la disparidad de conocimientos previos podían ser un freno para nosotros. Sin embargo, salir a terreno a observar el comportamiento de la basura en la arena y planificar las entrevistas para turistas y pescadores nos dio un propósito claro que superó cualquier obstáculo (¡incluso el miedo a que se cayera el servidor de Minecraft!). Nos llevamos la certeza de que la innovación tecnológica con conciencia socioambiental nos transforma en agentes de cambio capaces de devolverle el valor recreativo y ecológico a los casi 6.500 km de costa de nuestro país."
+***
