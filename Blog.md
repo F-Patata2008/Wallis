@@ -636,3 +636,23 @@ Esta problemática se relaciona con el Objetivo de Desarrollo Sostenible 14, que
 ### Próximos pasos
 
 Durante las siguientes semanas, el equipo buscará profundizar en las causas, consecuencias y formas actuales de abordar la contaminación en playas. También se analizarán posibles oportunidades de innovación que permitan contribuir a un entorno costero más limpio, seguro y sostenible.
+
+---
+
+## 18/08 — Ruta SMART del proyecto
+
+Durante esta actividad, el equipo transformó los objetivos individuales en una ruta de trabajo común para el semestre. Esta ruta permite ordenar el avance del proyecto desde la validación del problema hasta la evaluación de su viabilidad.
+
+| Etapa del proyecto                            | Objetivo SMART del equipo                                                                                                                                                                                                                                      | ¿Qué decisión permite tomar?                                                                                                                                                      |
+| --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Validar problema y requerimientos**      | Durante las primeras semanas del semestre, recopilaremos y analizaremos evidencia mediante revisión bibliográfica, observación y entrevistas, con el fin de validar el problema y definir al menos seis requerimientos verificables para una posible solución. | Determinar si el problema está suficientemente respaldado y qué necesidades deben orientar el diseño de una solución.                                                             |
+| **2. Vincular requerimientos y atributos**    | Antes de iniciar el diseño definitivo, relacionaremos cada requerimiento validado con atributos como capacidad de recolección, filtrado, seguridad, sostenibilidad, autonomía y complementariedad con las labores de limpieza existentes.                      | Priorizar los atributos esenciales que debe cumplir la solución para responder al problema sin afectar negativamente al ecosistema ni al turismo.                                 |
+| **3. Desarrollar y mejorar prototipo**        | Durante el semestre, desarrollaremos y mejoraremos un prototipo funcional a escala, realizando al menos dos iteraciones de diseño para incorporar mejoras en su estructura, movilidad y mecanismo de recolección.                                              | Decidir qué configuración o diseño presenta mejores condiciones para avanzar hacia las pruebas de validación.                                                                     |
+| **4. Probar y validar atributos de solución** | Una vez construido el prototipo, lo probaremos en un entorno controlado que simule las condiciones de uso, evaluando su desplazamiento, estabilidad, capacidad de recolección y separación de residuos.                                                        | Determinar si los atributos principales funcionan como se esperaba, identificar fallas y definir los aspectos que deben corregirse o rediseñarse.                                 |
+| **5. Evaluar viabilidad**                     | Antes de finalizar el semestre, evaluaremos la viabilidad técnica, económica y ambiental de la solución mediante el análisis de los resultados de las pruebas, los materiales utilizados y las limitaciones identificadas durante su construcción.             | Decidir si la solución puede continuar desarrollándose, qué modificaciones necesita y si resulta conveniente avanzar hacia una prueba en un entorno más cercano a una playa real. |
+
+### Reflexión
+
+La ruta SMART permitió establecer una secuencia de trabajo más clara para el semestre. Primero se buscará confirmar y delimitar el problema; luego, traducirlo en requerimientos y atributos concretos. Después, el equipo podrá desarrollar un prototipo, realizar pruebas controladas y, finalmente, evaluar si la propuesta es viable.
+
+De esta forma, las decisiones del proyecto no dependerán únicamente de una idea inicial, sino de evidencia, pruebas y resultados obtenidos durante cada etapa.
