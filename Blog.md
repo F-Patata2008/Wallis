@@ -668,7 +668,7 @@ La matriz se estructura a partir de la fórmula trabajada en clase:
 | Elemento                 | Desarrollo                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Usuario y contexto**   | Los usuarios principales son residentes y turistas de playas chilenas, especialmente familias, niños, deportistas y personas que caminan o realizan actividades recreativas sobre la arena. El problema se manifiesta con mayor fuerza en playas de alta afluencia, donde el tránsito de personas, el viento y las mareas pueden cubrir o mezclar residuos pequeños con la arena.                                                       |
-| **Necesidad**            | Los usuarios necesitan playas libres de residuos pequeños y potencialmente peligrosos(), tanto en la superficie como en las capas superficiales de la arena. Esta necesidad implica una limpieza capaz de retirar colillas de cigarro, fragmentos de plástico, tapas y vidrios que no siempre son visibles a simple vista.                                                                                                                |
+| **Necesidad**            | Los usuarios necesitan playas libres de residuos pequeños y potencialmente peligrosos(), tanto en la superficie como en las capas superficiales de la arena. Esta necesidad implica una limpieza capaz de retirar colillas de cigarro, fragmentos de plástico, tapas y vidrios que no siempre son visibles a simple vista.                                                                                                              |
 | **Evidencias**           | Las entrevistas y antecedentes recopilados muestran presencia frecuente de colillas, plásticos y fragmentos de vidrio en la arena. Algunas playas pueden aparentar estar limpias superficialmente, pero al caminar o remover la arena aparecen residuos pequeños. También se identificó que las labores tradicionales de limpieza suelen retirar objetos grandes, mientras que los residuos pequeños permanecen o vuelven a acumularse. |
 | **Síntomas**             | Presencia de basura visible o enterrada en la arena; aparición de colillas, plásticos o vidrios al removerla; riesgo de cortes o lesiones; sensación de suciedad; deterioro de la experiencia recreativa; y acumulación recurrente de residuos después de jornadas de limpieza.                                                                                                                                                         |
 | **Hallazgos e insights** | La limpieza tradicional presenta una **ceguera selectiva**: logra retirar con mayor facilidad los residuos grandes y visibles, pero deja fuera parte importante de los residuos pequeños, fragmentados o enterrados. Por ello, una playa puede parecer limpia visualmente y, aun así, mantener riesgos para sus visitantes y para el ecosistema costero.                                                                                |
@@ -676,3 +676,80 @@ La matriz se estructura a partir de la fórmula trabajada en clase:
 ### Problema sintetizado
 
 > **Los residentes y turistas que utilizan playas chilenas, especialmente quienes interactúan directamente con la arena, necesitan espacios costeros libres de residuos pequeños y potencialmente peligrosos. Las entrevistas, observaciones y antecedentes revisados evidencian la presencia recurrente de colillas de cigarro, fragmentos de plástico, tapas y vidrios, incluso en playas que aparentan estar limpias. Esta situación provoca sensación de suciedad, riesgo de cortes y deterioro de la experiencia recreativa, además de afectar el entorno costero. Como hallazgo principal, se identifica que los métodos tradicionales de limpieza presentan una ceguera selectiva: permiten retirar residuos grandes y visibles, pero no logran extraer completamente los residuos pequeños o enterrados.**
+
+
+---
+## 25/08 — Lista preliminar de materiales y próximos pasos
+
+Durante esta jornada definimos una **lista preliminar de materiales** para construir el prototipo de Wallis. Como ajuste inicial de diseño, se considera una profundidad de trabajo aproximada de **8 cm** en la arena y un sistema de tracción de **cuatro ruedas motrices (AWD)**. El prototipo requerirá entre cinco y seis motores, considerando la locomoción y el mecanismo de filtrado.
+
+> **Nota:** Esta lista sigue siendo preliminar. Algunos componentes, especialmente el sistema de control, la cámara, el tipo de driver y el mecanismo de filtrado, se definirán después de realizar pruebas técnicas y comparar alternativas.
+
+### 1. Sistema de control y visión
+
+Este sistema funcionará como el “cerebro” del prototipo, encargándose de procesar información, recibir datos de sensores y controlar los demás componentes.
+
+- **Placa de control:** Raspberry Pi 4 de 8 GB o ESP32-S3.
+- **Cámara:** módulo de cámara compatible con Raspberry Pi o ESP32-CAM.
+- **Módulo GPS:** por ejemplo, NEO-6M, para registrar o estimar la ubicación del prototipo.
+- **Sensor IMU MPU6050:** acelerómetro y giroscopio para obtener información de inclinación y movimiento.
+- **Sensores de distancia:** dos sensores ultrasónicos HC-SR04 o sensores LiDAR, para detectar obstáculos que no sean identificados por la cámara.
+
+### 2. Sistema de locomoción
+
+El sistema de locomoción permitirá el desplazamiento del prototipo sobre arena u otras superficies de prueba.
+
+- **Motores DC con reductora (x4):** uno por rueda; se consideran motores tipo `37GB555` o similares por su mayor torque respecto de motores de juguete.
+- **Ruedas de gran diámetro (x4):** preferentemente anchas para distribuir mejor el peso sobre la arena. Podrán ser impresas en 3D o recuperadas desde vehículos de juguete.
+- **Drivers de motor o puentes H:**
+  - **Opción A:** tres módulos L298N, con capacidad para controlar dos motores por módulo.
+  - **Opción B:** tres módulos TB6612FNG, más compactos y eficientes.
+
+### 3. Sistema de filtrado
+
+Este sistema deberá permitir separar la arena de los residuos recolectados.
+
+- **Motores DC con reductora (x1 o x2):** según se utilice un sistema de rodillo, cinta o zaranda vibratoria.
+- **Malla de acero inoxidable AISI 304:** con perforaciones aproximadas entre 2 mm y 5 mm, para dejar pasar arena y retener residuos de mayor tamaño.
+- **Ejes y rodamientos:** necesarios para permitir el giro del sistema de filtrado y reducir el desgaste de la estructura.
+
+### 4. Sistema de energía
+
+El sistema de energía deberá entregar alimentación suficiente para los motores, sensores y sistema de control.
+
+- **Batería LiPo 3S o 4S:** 11,1 V o 14,8 V, con capacidad suficiente para alimentar los motores del prototipo.
+- **Convertidores DC-DC o reguladores de voltaje (x2):** por ejemplo, módulos LM2596, para reducir y estabilizar el voltaje a 5 V para la placa de control y sensores.
+- **Interruptor de alta corriente:** para encender y apagar el sistema de forma segura.
+- **Conectores XT60:** para realizar una conexión segura entre la batería y el resto del circuito.
+
+### 5. Estructura y hardware
+
+Estos elementos conformarán el cuerpo físico del prototipo y protegerán sus componentes.
+
+- **Filamento PETG:** entre 1 kg y 2 kg para fabricar soportes de motor, engranajes, ruedas u otras piezas impresas en 3D.
+- **Planchas de acrílico o MDF:** de 3 mm o 5 mm para construir el chasis principal mediante corte láser.
+- **Pernos y tuercas:** sets de medidas M3 y M4, con distintos largos.
+- **Caja estanca o contenedor plástico:** para proteger la electrónica de la arena, el polvo y la humedad.
+
+### 6. Cables y conexiones
+
+- **Cables de silicona:** calibre 18 AWG o 22 AWG para conexiones de motores y alimentación.
+- **Protoboard o placa perforada:** para construir y probar el circuito eléctrico.
+- **Cables jumper:** macho-macho y macho-hembra para conexiones rápidas entre sensores, drivers y placa de control.
+
+### Próximos pasos
+
+Para avanzar desde la lista de materiales hacia un prototipo funcional, el equipo deberá:
+
+1. Diseñar el sistema eléctrico y elaborar un diagrama de conexiones.
+2. Seleccionar la placa de control principal entre Raspberry Pi y ESP32, considerando las necesidades de visión, procesamiento y consumo energético.
+3. Definir el mecanismo de filtrado a partir de pruebas entre alternativas como rodillo, cinta o zaranda vibratoria.
+4. Diseñar el chasis y la distribución de los componentes.
+5. Programar y completar el sistema de visión o detección de residuos.
+6. Probar por separado los sistemas de locomoción, filtrado, energía, sensores y control.
+7. Implementar un sistema de comunicación para recibir telemetría, como datos de batería, ubicación, inclinación y estado de los motores.
+8. Integrar progresivamente los sistemas y realizar pruebas controladas sobre arena u otra superficie similar.
+
+### Comentario final
+
+La lista inicial permite dividir el proyecto en subsistemas más manejables: control, locomoción, filtrado, energía y estructura. Antes de integrar todo el prototipo, resulta más seguro y eficiente validar cada subsistema por separado; así será posible detectar fallas de diseño, consumo eléctrico o compatibilidad entre componentes antes de pasar a una prueba completa.
