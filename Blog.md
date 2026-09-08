@@ -754,6 +754,8 @@ Para avanzar desde la lista de materiales hacia un prototipo funcional, el equip
 
 La lista inicial permite dividir el proyecto en subsistemas más manejables: control, locomoción, filtrado, energía y estructura. Antes de integrar todo el prototipo, resulta más seguro y eficiente validar cada subsistema por separado; así será posible detectar fallas de diseño, consumo eléctrico o compatibilidad entre componentes antes de pasar a una prueba completa.
 
+---
+
 ## 28/08 — Construcción de la propuesta conceptual
 
 Durante esta actividad comenzamos a transformar el problema validado en una propuesta conceptual. Para ello, revisamos las necesidades identificadas en las etapas anteriores y definimos los requerimientos que debería cumplir una eventual solución.
@@ -812,3 +814,23 @@ Por lo tanto, la propuesta conceptual se entiende como un sistema físico de lim
 Esta actividad permitió conectar la problemática con características concretas que una solución debería cumplir. El equipo identificó que no basta con retirar basura de la superficie, sino que también es necesario considerar los residuos pequeños y enterrados, la estabilidad del desplazamiento sobre arena, la seguridad de las personas y el impacto ambiental.
 
 Los requerimientos y atributos definidos servirán como base para comparar alternativas de diseño, seleccionar los mecanismos más adecuados y orientar el desarrollo del prototipo en las siguientes etapas.
+
+---
+
+## 04/09 — 08/09: Montaje del controlador ESP32, pantalla LCD 16x2 y módulo RFID
+
+Durante estas jornadas comenzamos formalmente con la construcción e integración del sistema de control del prototipo Wallis, utilizando una placa **ESP32** como microcontrolador principal.
+
+### 1. Integración de la pantalla LCD 16x2 (I2C)
+- Se sustituyó una primera opción de pantalla OLED que presentaba fallas físicas por una pantalla **LCD 16x2 con interfaz I2C**.
+- Se programó un escaneo automático del bus I2C (en los pines `GPIO 21` para SDA y `GPIO 22` para SCL), detectando con éxito el módulo en la dirección `0x27`.
+- El display se configuró para mostrar información de telemetría en tiempo real: estado del robot (`STANDBY` / `ACTIVO`), detección día/noche y tiempo de funcionamiento acumulado.
+
+### 2. Conexión del módulo RFID RC522 (SPI)
+- Con el fin de implementar un mecanismo de seguridad y control de acceso en terreno, se integró un lector **RFID-RC522** mediante el bus SPI.
+- Este módulo funciona como la llave de encendido/apagado del robot: al aproximar una tarjeta o llavero RFID autorizado, el sistema conmuta su estado entre modo de espera (`STANDBY`) y modo de operación activa (`ACTIVE_CLEANING`).
+- Se realizaron las conexiones correspondientes al bus SPI del ESP32 (`SDA/SS` en GPIO 5, `SCK` en GPIO 18, `MOSI` en GPIO 23, `MISO` en GPIO 19 y `RST` en GPIO 4), alimentándolo estrictamente a 3.3V para proteger el módulo.
+
+### Próximos pasos
+- Finalizar las pruebas de lectura de tarjetas con el sensor conectado.
+- Integrar el sensor de agua y el módulo de relé para el corte de seguridad de los motores.
