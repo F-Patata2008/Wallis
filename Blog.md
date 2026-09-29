@@ -834,3 +834,80 @@ Durante estas jornadas comenzamos formalmente con la construcción e integració
 ### Próximos pasos
 - Finalizar las pruebas de lectura de tarjetas con el sensor conectado.
 - Integrar el sensor de agua y el módulo de relé para el corte de seguridad de los motores.
+
+## 25/09 — Torneo de oportunidades y validación de atributos
+
+Durante esta semana realizamos el torneo de oportunidades correspondiente a la Actividad de Laboratorio 5.2. El objetivo fue comparar las propuestas desarrolladas por el equipo y filtrarlas utilizando los criterios definidos en las etapas anteriores.
+
+El proceso permitió revisar qué ideas respondían mejor al problema de los residuos pequeños y enterrados en la arena, cuáles abordaban los requerimientos prioritarios y qué modificaciones eran necesarias para convertirlas en alternativas más concretas y evaluables.
+
+### Propuestas consideradas
+
+Durante el proceso se analizaron distintas alternativas relacionadas con la limpieza de playas:
+
+- Un sistema móvil con ruedas, orientado a desplazarse sobre la arena y recolectar residuos.
+- Un sistema con orugas, pensado para aumentar la estabilidad y reducir el hundimiento sobre superficies blandas.
+- Un mecanismo de filtrado o tamizado, destinado a separar la arena de los residuos recolectados.
+- Un sistema de recolección mediante rodillo o cinta, enfocado en levantar basura pequeña desde la superficie.
+- Una alternativa apoyada por sensores y control electrónico, para monitorear el desplazamiento y el funcionamiento del sistema.
+- Una solución complementaria a las jornadas de limpieza y voluntariados, en lugar de reemplazar completamente el trabajo humano.
+
+Después de comparar estas ideas, se decidió concentrar el desarrollo en un sistema móvil de limpieza y filtrado. Esta alternativa permite integrar los atributos considerados más importantes: capacidad de avanzar sobre la arena, velocidad de limpieza y duración de la batería.
+
+### Atributos priorizados
+
+Los tres atributos principales seleccionados para la solución son los siguientes:
+
+1. **Capacidad para avanzar sobre la arena.**
+2. **Velocidad de limpieza.**
+3. **Duración de la batería.**
+
+Estos atributos fueron priorizados porque permiten evaluar si la propuesta puede funcionar de manera práctica. No basta con que el sistema recolecte residuos: también debe desplazarse de forma estable, cubrir una superficie suficiente durante una jornada de trabajo y mantener su funcionamiento durante un tiempo razonable.
+
+## Actividad 5.4 — Atributo, usuario y prototipo
+
+Para cada atributo se definió una conducta observable que permitiría confirmar su funcionamiento y una versión simple del prototipo que podría construirse para realizar la validación.
+
+| Atributo | Conducta que lo confirma | Qué se construye |
+|---|---|---|
+| **Capacidad para avanzar sobre la arena** | El prototipo se desplaza sobre una superficie de arena sin atascarse, hundirse excesivamente ni desviarse de manera significativa. Se registra la distancia recorrida, el tiempo empleado y la cantidad de detenciones. | Una maqueta funcional del sistema de locomoción, con ruedas u orugas, motores y una superficie de prueba con arena de características similares a las del entorno objetivo. |
+| **Velocidad de limpieza** | El prototipo recolecta una cantidad definida de residuos en un tiempo determinado. Se puede medir la cantidad de residuos recogidos por minuto o la superficie cubierta durante una prueba. | Un módulo simple de recolección y filtrado, como un rodillo, cinta o zaranda, montado sobre el sistema móvil. |
+| **Duración de la batería** | El sistema mantiene activos los motores y el mecanismo de limpieza durante un periodo definido, sin perder estabilidad ni disminuir significativamente su rendimiento. | Un circuito de alimentación con batería, reguladores de voltaje, motores y sensores básicos para registrar el tiempo de funcionamiento y el nivel de carga. |
+
+### Usuarios para la validación
+
+Estos atributos deberían validarse con personas que conozcan el uso y mantenimiento de playas, además de usuarios que interactúen directamente con la arena. Entre ellos se consideran:
+
+- Residentes de zonas costeras.
+- Turistas y visitantes de playas.
+- Trabajadores municipales encargados de la limpieza.
+- Organizaciones ambientales y grupos de voluntariado.
+- Estudiantes o personas con experiencia en robótica y prototipado.
+
+La opinión de estos usuarios permitiría identificar si la propuesta responde a una necesidad real, si su funcionamiento resulta comprensible y si el sistema podría complementar las labores de limpieza existentes.
+
+### Plan de pruebas
+
+Para validar los atributos, se propone realizar pruebas controladas antes de llevar el prototipo a una playa real:
+
+1. Preparar una superficie de arena con una cantidad conocida de residuos simulados.
+2. Probar el desplazamiento del sistema con diferentes tipos de ruedas u orugas.
+3. Medir la distancia recorrida, el tiempo de desplazamiento y las detenciones.
+4. Activar el mecanismo de limpieza y registrar la cantidad de residuos recolectados.
+5. Repetir la prueba con una batería completamente cargada.
+6. Registrar el tiempo total de funcionamiento y cualquier pérdida de rendimiento.
+7. Comparar los resultados con los criterios definidos para cada atributo.
+
+### Criterios iniciales de evaluación
+
+| Atributo | Indicadores posibles |
+|---|---|
+| Capacidad para avanzar sobre la arena | Distancia recorrida, tiempo de recorrido, número de atascos, desviación de la trayectoria y estabilidad del sistema. |
+| Velocidad de limpieza | Residuos recolectados por minuto, superficie cubierta y porcentaje de residuos recuperados. |
+| Duración de la batería | Tiempo total de funcionamiento, nivel de carga restante y variación del rendimiento de los motores. |
+
+### Conclusión
+
+El torneo de oportunidades permitió pasar desde varias ideas generales a una propuesta más acotada y evaluable. La alternativa seleccionada combina un sistema móvil de desplazamiento con un mecanismo de recolección y filtrado, manteniendo la posibilidad de incorporar sensores y control electrónico en etapas posteriores.
+
+La siguiente fase consistirá en construir versiones simples de los módulos principales y probarlos por separado. De esta manera, el equipo podrá determinar qué configuración permite avanzar mejor sobre la arena, limpiar con mayor eficiencia y utilizar la batería durante un tiempo suficiente para que la propuesta sea viable.
