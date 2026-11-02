@@ -911,3 +911,30 @@ Para validar los atributos, se propone realizar pruebas controladas antes de lle
 El torneo de oportunidades permitió pasar desde varias ideas generales a una propuesta más acotada y evaluable. La alternativa seleccionada combina un sistema móvil de desplazamiento con un mecanismo de recolección y filtrado, manteniendo la posibilidad de incorporar sensores y control electrónico en etapas posteriores.
 
 La siguiente fase consistirá en construir versiones simples de los módulos principales y probarlos por separado. De esta manera, el equipo podrá determinar qué configuración permite avanzar mejor sobre la arena, limpiar con mayor eficiencia y utilizar la batería durante un tiempo suficiente para que la propuesta sea viable.
+
+---
+
+## 21/10 — 28/10: Construcción del Prototipo Físico y Pruebas de Validación en Semana de Receso
+
+Durante las jornadas previas y a lo largo de la **semana de receso**, el equipo concentró sus esfuerzos en la construcción del prototipo físico enfocado y la ejecución de los experimentos de validación técnica en banco de pruebas con arena costera real.
+
+### 1. Fabricación del Prototipo y Ensamble Electromecánico
+A partir de la división modular planificada, implementamos:
+- **Mecanismo de Excavación y Cribado Activo:** Fabricación del rodillo rotatorio con álabes curvos acoplado directamente al micro-motorreductor metálico **N20** (6V, 210 RPM nominales). Este rodillo cumple la función de ingresar en los primeros 4 cm de arena y proyectar los microdesechos hacia la criba.
+- **Tracción y Locomoción:** Chasis móvil con 2 motores DC amarillos dotados de reducción mecánica (1:48) y ruedas de goma de amplia pisada para evitar el hundimiento en arena seca no compactada.
+- **Circuito de Control y Potencia:** Implementación en Arduino Uno con controlador de motores doble HW-95/L298N y alimentación mediante pack de baterías Li-Ion 7.4V. El firmware (`motor.ino`) opera con una máquina de estados segura (`ESTADO_REPOSO`, `ESTADO_RODILLO`, `ESTADO_RUEDAS`), resistencias internas `INPUT_PULLUP` en botones de testeo y telemetría serial a 9600 baudios.
+
+### 2. Ejecución de Experimentos de Validación (Semana de Receso)
+Aprovechando la semana de receso, el equipo montó un cajón de pruebas de $100\times 40\times 8\text{ cm}$ con arena de playa seca para evaluar cuantitativamente tres atributos fundamentales:
+
+1. **Eficiencia de Cribado Subsuperficial (Atributo 1):**
+   - Se sembraron 25 residuos normalizados (15 colillas de cigarro y 10 tapas/fragmentos de plástico rígido) enterrados entre 2 y 5 cm de profundidad.
+   - En una sola pasada continua a 185 RPM bajo carga, el rodillo desenterró y recuperó 21 de los 25 residuos (**84,0% de eficiencia de captura**), superando el criterio de éxito fijado en 80%.
+2. **Capacidad de Avance y Tracción en Arena Blanda (Atributo 2):**
+   - En una pista de 3,0 metros de arena suelta, el robot avanzó con una velocidad crucero promedio de **8,5 cm/s**, registrando únicamente 1 detención breve por patinaje cada 4,5 metros de recorrido (tasa de éxito del 88% sin atasco crítico).
+3. **Autonomía Eléctrica y Estabilidad del Sistema (Atributo 3):**
+   - Con los 3 motores en operación simultánea bajo carga de arena, el consumo promedio medido fue de **620 mA**, completando **195 minutos (3 horas y 15 minutos)** de funcionamiento continuo antes del corte de seguridad a 7,0V. La electrónica operó a temperatura segura ($<34^\circ\text{C}$) sin caídas de tensión ni reinicios del microcontrolador.
+
+### 3. Conclusiones y Próximos Pasos (Hacia el Hito 2)
+Los resultados obtenidos en la semana de receso validan plenamente la hipótesis central del proyecto: el mecanismo de tornillo y criba rotatoria activa es mecánicamente idóneo para extraer residuos finos sin compactar la arena ni requerir maquinaria pesada. A partir de esta evidencia empírica, el equipo decidió **perseverar en la solución** y enfocar las siguientes mejoras en la incorporación de peines rascadores de teflón para arena húmeda, la integración del microcontrolador ESP32 con corte por agua y la preparación de la presentación oral del Hito 2 apoyada en nuestra landing page oficial ([wallis-indol.vercel.app](https://wallis-indol.vercel.app/)).
+
