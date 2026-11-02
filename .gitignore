@@ -14,3 +14,10 @@ __pycache__/
 # Arduino CLI temporary builds
 .arduino/
 build/
+
+# Large archives and raw heavy videos (>50MB)
+*.zip
+*-30fps.mp4
+Media/20261021_232552.mp4
+Wallis.mp4
+
