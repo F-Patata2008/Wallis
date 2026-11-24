@@ -21,3 +21,7 @@ build/
 Media/20261021_232552.mp4
 Wallis.mp4
 
+
+# 3D Printing toolpaths & Windows drive metadata
+*.gcode
+[Ss]ystem [Vv]olume [Ii]nformation/
